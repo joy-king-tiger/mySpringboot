@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527151b7-4f44-4c46-a907-0bd6b9ea9704" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_quick.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liqiao/SpringbootQuickApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liqiao/controller/QuickController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/liqiao/SpringbootQuickApp.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/liqiao/controller/QuickController.class" afterDir="false" />
     </list>
@@ -239,7 +230,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -356,7 +347,7 @@
       <workItem from="1581563349977" duration="7032000" />
       <workItem from="1581603980863" duration="4083000" />
       <workItem from="1581771470699" duration="172000" />
-      <workItem from="1583503096793" duration="2183000" />
+      <workItem from="1583503096793" duration="2580000" />
     </task>
     <task id="LOCAL-00001">
       <created>1583505676962</created>
@@ -365,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583505676962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加一个springboot_quick项目">
+      <created>1583505753874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583505753874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -386,7 +384,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29096000" />
+    <option name="totallyTimeSpent" value="29493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -431,7 +429,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="添加一个springboot_quick项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加一个springboot_quick项目" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.0.RELEASE/spring-boot-starter-parent-2.1.0.RELEASE.pom">
